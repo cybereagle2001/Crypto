@@ -8,6 +8,7 @@ sudo apt-get install espeak
 sudo apt-get install figlet
 sudo apt-get install pv
 clear
+echo "©All Right Reserved to cybereagle2001(Oussama Ben Hadj Dahman)"
 figlet "Crypto"
 read -p "choose one option (enc/dec): " MrRobot
 if [ "$MrRobot" == "enc" ]; then
