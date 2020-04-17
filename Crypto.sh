@@ -30,7 +30,18 @@ echo "//////////////// CRYPTO BY CYBER EAGLE ///////////////" |pv -qL 10
 echo "THE BEST CHOICE TO SECURE YOUR DOCUMENTS"> the
 festival --tts the
 echo "////// THE BEST CHOICE TO SECURE YOUR DOCUMENTS ///// " |pv -qL 10
+read -p "please choose your option (base64/rot13): " Robot2
+if [ "$Robot2" == "base64" ]; then
 read -p "write your text: " Robot
 echo $Robot | base64 -d > decode
 echo "end. you will found your decoded text in decode.txt"
+fi
+
+if[ "$Robot2" == "rot13" ]; then
+function rot13 {
+  tr 'A-Za-z' 'N-ZA-Mn-za-m' 
+}
+read -p "write your text: " Robot3
+echo $Robot3 |rot13 > decode
+fi
 fi
