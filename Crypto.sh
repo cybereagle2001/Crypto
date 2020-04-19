@@ -1,5 +1,5 @@
 #coded by cybereagle2001 
-#last time edited :Sat 18 Apr 2020 05:04:50 PM UTC 
+#last time edited :Sun 19 Apr 2020 09:57:03 PM UTC 
 #!
 clear
 sudo apt-get update 
@@ -18,9 +18,20 @@ echo "//////////////// CRYPTO BY CYBER EAGLE ///////////////" |pv -qL 10
 echo "THE BEST CHOICE TO SECURE YOUR DOCUMENTS"> the
 festival --tts the
 echo "////// THE BEST CHOICE TO SECURE YOUR DOCUMENTS ///// " |pv -qL 10
-read -p "write your text: " Eliot
-echo  $Eliot | base64 > encode
+read -p "choose your option (base64/rot13): " oussama
+if [ "$oussama" == "base64" ]; then
+read -p "whrite your text: " MrRobot
+echo $MrRobot | base64 > encode
 echo "end. you will found your encrypted text in encode.txt"
+fi
+if [ "$oussama" == "rot13" ];then
+function rot13 {
+tr 'A-Za-z' 'N-ZA-Mn-za-m' 
+}
+read -p "write your text: " Robot3
+echo $Robot3 |rot13 > decode
+echo "end. you will found your decoded text in decode.txt"
+fi
 fi
 
 if [ "$MrRobot" == "dec" ]; then
