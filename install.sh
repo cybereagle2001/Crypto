@@ -11,3 +11,4 @@ sudo apt-get install espeak
 sudo apt-get install figlet
 sudo apt-get install pv
 chmod +x Crypto.sh
+./Crypto.sh
