@@ -12,10 +12,10 @@ after cloning the link go to the directory useing:
                     
 > cd Crypto
 
-Now add Crypto to your terminal commands useing:
->chmod +x Crypto.sh
+Now add Crypto Script installer to your terminal commands useing:
+>chmod +x install.sh
 
-And you can launch Crypto script
+And you can launch Crypto script installer by:
 
-  >./Crypto.sh
+  >./install.sh
 
