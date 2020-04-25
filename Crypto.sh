@@ -1,12 +1,6 @@
 #coded by cybereagle2001 
-#last time edited :Sun 19 Apr 2020 09:57:03 PM UTC 
+#last time edited :Sat 25 Apr 2020 05:21:18 PM UTC 
 #!
-clear
-sudo apt-get update 
-sudo apt-get install festival
-sudo apt-get install espeak
-sudo apt-get install figlet
-sudo apt-get install pv
 clear
 echo "©All Right Reserved to cybereagle2001(Oussama Ben Hadj Dahman)"
 figlet "Crypto"
