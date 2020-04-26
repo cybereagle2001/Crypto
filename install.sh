@@ -1,6 +1,6 @@
+#!
 #coded by cybereagle2001
 #last time edited :Sat 25 Apr 2020 04:55:37 PM UTC 
-#!
 clear
 echo "************************************"
 echo "   THIS ACTION MAY TAKE SOME TIME"
