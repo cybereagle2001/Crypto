@@ -1,6 +1,6 @@
+#!
 #coded by cybereagle2001 
 #last time edited :Sun 26 Apr 2020 01:13:55 PM UTC 
-#!
 clear
 echo "©All Right Reserved to cybereagle2001(Oussama Ben Hadj Dahman)"
 figlet "Crypto"
