@@ -18,4 +18,10 @@ Now add Crypto Script installer to your terminal commands useing:
 And you can launch Crypto script installer by:
 
   >./install.sh
+  
+## Crypto History
+- I got the idea of Crypto script 10/03/2020
+- I started by a basic encryption algorythm wich is base64 
+- One day my freind asked me to improve the script by saying that it's easier to use the online encryptor so I decided to add more optons to crypto by useing rot13 algorithm.
+- I did not stop there because I thought I must have a special encryption algorthm wich allow Crypto to be unique so that today Sun 26 Apr 2020 01:13:55 PM UTC I added crypto1 a encryption and decryption unique algorithm wich will allow more security to your files. 
 
