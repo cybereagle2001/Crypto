@@ -33,6 +33,6 @@ And you can launch Crypto script installer by:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) (c) Crypto.
+[MIT](https://choosealicense.com/licenses/mit/) ©Crypto.
 
 Original author : Oussama Ben Hadj Dahman (cybereagle2001)
