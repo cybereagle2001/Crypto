@@ -30,3 +30,6 @@ And you can launch Crypto script installer by:
 - One day my freind asked me to improve the script by saying that it's easier to use the online encryptor so I decided to add more optons to crypto by useing rot13 algorithm.
 - I did not stop there because I thought I must have a special encryption algorthm wich allow Crypto to be unique so that today Sun 26 Apr 2020 01:13:55 PM UTC I added crypto1 a encryption and decryption unique algorithm wich will allow more security to your files. 
 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
