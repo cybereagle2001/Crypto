@@ -10,5 +10,5 @@ sudo apt-get install festival
 sudo apt-get install espeak
 sudo apt-get install figlet
 sudo apt-get install pv
-chmod +x Crypto.sh
-./Crypto.sh
+chmod +x crypto.sh
+./crypto.sh
