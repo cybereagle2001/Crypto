@@ -11,7 +11,7 @@
 
 ### Clone the git link 
 
->  git clone (Crypto url from the icon clone/downloads)
+>  git clone https://github.com/cybereagle2001/Crypto.git
 
 after cloning the link go to the directory useing:
                     
