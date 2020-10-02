@@ -1,4 +1,5 @@
 # Crypto
+  <a target="_blank" href="Language" title="Language"><img src="https://img.shields.io/badge/language-bash-GREEN"></a>
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/63789665/80309500-f8755400-87c4-11ea-9ae1-5e0f7e1e3966.gif)
 
