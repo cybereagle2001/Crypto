@@ -19,7 +19,7 @@
 
 after cloning the link go to the directory useing:
                     
-> cd Crypto
+> cd Crypto/Crypto_app
 
 Now add Crypto Script installer to your terminal commands useing:
 >chmod +x install.sh
