@@ -1,5 +1,9 @@
-#Required Python libraries 
+Required Python libraries 
 base64
 os
 time random 
 string
+
+Required extensions:
+
+espeak
