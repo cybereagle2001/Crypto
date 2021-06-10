@@ -10,6 +10,9 @@
 - I thought that it so important to secure some documents it will allow people to conserve their own privacy so I created the first version of Crypto based on some kali linux tools. -It's so easy to use. All what you need is to write or past your text after choosing the encryption or decryption option and Crypto will create a new file where you will found your document encrypted or decrypted.
 - Crypto V0.2 is written in python 2.7. We developped Crypto so that it can run on GNU/LINUX ,WINDOWS and MAC OS. We will continue to develope Crypto for higher quality very soon.
 
+## How to Run Crypto on Windows 
+
+you can follow instructions in this link after installing python 2.7 :https://generalassemb.ly/blog/how-to-run-a-python-script/
 ## How To Install Crypto on linux 
 
 ![crypto](https://user-images.githubusercontent.com/63789665/121598455-bc896680-ca39-11eb-8d84-6286003e1ba9.png)
