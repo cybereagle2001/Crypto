@@ -15,7 +15,7 @@
 you can follow instructions in this link after installing python 2.7 :https://generalassemb.ly/blog/how-to-run-a-python-script/
 ## How To Install Crypto on linux 
 
-![crypto](https://user-images.githubusercontent.com/63789665/121598455-bc896680-ca39-11eb-8d84-6286003e1ba9.png)
+![crypto](crypto1.png)
 
 
 ### Clone the git link 
