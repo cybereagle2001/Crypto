@@ -8,4 +8,4 @@ echo "   THIS ACTION MAY TAKE SOME TIME"
 echo "************************************"
 sudo apt-get update 
 sudo apt-get install espeak
-python2 crypto.py
+python3 crypto.py
