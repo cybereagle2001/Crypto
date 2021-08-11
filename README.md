@@ -8,7 +8,8 @@
 
 - this script is created by cybereagle2001, oussama ben hadj dahman, developped by cybereagle2001 and Oussema Aloui.
 - I thought that it so important to secure some documents it will allow people to conserve their own privacy so I created the first version of Crypto based on some kali linux tools. -It's so easy to use. All what you need is to write or past your text after choosing the encryption or decryption option and Crypto will create a new file where you will found your document encrypted or decrypted.
-- Crypto V0.2 is written in python 2.7. We developped Crypto so that it can run on GNU/LINUX ,WINDOWS and MAC OS. We will continue to develope Crypto for higher quality very soon.
+- Crypto V0.2 is written in python 2.7. We developped Crypto so that it can run on GNU/LINUX ,WINDOWS and MAC OS.
+- -Crypto V0.3 is written in python 3. We worked on better performance and higher encryption algorithms. We will update the project and we will add new encryption algorithms soon.
 
 ## How to Run Crypto on Windows 
 
