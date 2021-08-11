@@ -1,9 +1,7 @@
 Required Python libraries 
 base64
+pyfiglet
 os
-time random 
-string
-
-Required extensions:
-
-espeak
+time
+random
+codecs
