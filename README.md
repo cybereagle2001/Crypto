@@ -1,5 +1,5 @@
 # Crypto
-  <a target="_blank" href="Language" title="Language"><img src="https://img.shields.io/badge/language-python 2.7-GREEN"></a>
+  <a target="_blank" href="Language" title="Language"><img src="https://img.shields.io/badge/language-python 3+-GREEN"></a>
   <a target="_blank" href="OS" title="OS"><img src="https://img.shields.io/static/v1?label=OS&message=linux&color=red"></a>
    <a target="_blank" href="OS" title="OS"><img src="https://img.shields.io/static/v1?label=OS&message=Windows&color=red"></a>
     <a target="_blank" href="OS" title="OS"><img src="https://img.shields.io/static/v1?label=OS&message=MacOS&color=red"></a>
@@ -12,7 +12,7 @@
 
 ## How to Run Crypto on Windows 
 
-you can follow instructions in this link after installing python 2.7 :https://generalassemb.ly/blog/how-to-run-a-python-script/
+you can follow instructions in this link after installing python 3 :https://generalassemb.ly/blog/how-to-run-a-python-script/
 ## How To Install Crypto on linux 
 
 ![crypto](crypto1.png)
@@ -49,3 +49,5 @@ And you can launch Crypto script installer by:
 Original author : Oussama Ben Hadj Dahman (cybereagle2001)
 
 Developped by cybereagle2001 and Oussema Aloui 
+
+Version 3 developped by cybereagle2001 and wassila Chtioui
