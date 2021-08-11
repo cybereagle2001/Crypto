@@ -39,8 +39,8 @@ And you can launch Crypto script installer by:
 - One day my freind asked me to improve the script by saying that it's easier to use the online encryptor so I decided to add more optons to crypto by useing rot13 algorithm.
 - I did not stop there because I thought I must have a special encryption algorthm wich allow Crypto to be unique so that today Sun 26 Apr 2020 01:13:55 PM UTC I added crypto1 a encryption and decryption unique algorithm wich will allow more security to your files. 
 - Since the begining of the year 2021 we worked on crypto so that it can run on different Operating Systems.
-- Crypto is now written using python 2.7 you will find two versions one for Linux and MacOS and an other for Windows users. Note that there is no difference betweeen the two version when it comes to the quality of the encryption and the security of the script, yet for Windows users please vrify that all Requirements are installed. 
-
+- Crypto version 2 was written using python 2.7 you will find two versions one for Linux and MacOS and an other for Windows users. Note that there is no difference betweeen the two version when it comes to the quality of the encryption and the security of the script, yet for Windows users please vrify that all Requirements are installed. 
+- Crypto version3 developped in python3+. It will find two versions one for linux& mac os and an other for windows users. We worked on the security of our encryption modules and code. We assure you that in this version the execution of the script is easier and it allow you to have a nicer experience. We will work on adding new encryption methods soon.
 
 ## License
 
